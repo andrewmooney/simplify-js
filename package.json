@@ -1,5 +1,5 @@
 {
-  "name": "simplify-js",
+  "name": "simplify-js-reversed-geometry-array",
   "version": "1.2.2",
   "description": "A high-performance JavaScript 2D/3D polyline simplification library",
   "homepage": "http://mourner.github.com/simplify-js/",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mourner/simplify-js.git"
+    "url": "https://github.com/andrewmooney/simplify-js-reversed-geometry-array.git"
   },
   "main": "simplify.js",
   "devDependencies": {
