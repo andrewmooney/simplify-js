@@ -1,3 +1,5 @@
+Processes geometry coordinates from a flat array in reverse order.
+## Forked from:
 Simplify.js is a high-performance JavaScript polyline simplification library by Vladimir Agafonkin, extracted from [Leaflet](http://leafletjs.com).
 
 Checkout the demo with docs: http://mourner.github.io/simplify-js/
